@@ -10,17 +10,6 @@ started.
 
 There are two easy options for obtaining this A-Frame scene. It's then up to you to make it your own!
 
-### <sup>Option 1:</sup> Download the ZIP kit 📦
-
-[<img src="http://i.imgur.com/UVPZoM0.png" width="200">](https://github.com/aframevr/aframe-boilerplate/archive/master.zip)
-
-After you have __[downloaded and extracted this `.zip` file](https://github.com/aframevr/aframe-boilerplate/archive/master.zip)__ containing the contents of this repo, open the resulting directory, and you'll be have your scene ready in these few steps:
-
-    npm install && npm start
-    open http://localhost:3000/
-
-<hr>
-
 ### <small><sup>Option 2:</sup> Fork this Git repo 🍴🐙
 
 Alternatively, you can __[fork this repo](https://github.com/aframevr/aframe-boilerplate/fork)__ to get started, if you'd like to maintain a Git workflow.
